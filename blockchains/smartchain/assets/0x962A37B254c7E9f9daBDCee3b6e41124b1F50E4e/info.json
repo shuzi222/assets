@@ -1,0 +1,21 @@
+{
+  "name": "Eternachip",
+  "type": "BEP20",
+  "symbol": "ETcH",
+  "id": "0x962A37B254c7E9f9daBDCee3b6e41124b1F50E4e",
+  "decimals": 2,
+  "description": "ETcH is a game token. You can get random rewards by transferring money to the black hole address - destroy or double it!",
+  "explorer": "https://bscscan.com/token/0x962a37b254c7e9f9dabdcee3b6e41124b1f50e4e",
+  "status": "active",
+  "teg": "defi",
+  "links": [
+    {
+      "name": "github",
+      "url": "https://github.com/shuzi222/ETcH"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/no_cao_shuza"
+    }
+  ]
+}
